@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.ram.java8Features.methodAndObjectReference"}];updateSearchResults();

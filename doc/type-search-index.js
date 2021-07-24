@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.ram.java8Features.methodAndObjectReference","l":"MethodReference2"}];updateSearchResults();
